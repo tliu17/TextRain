@@ -2,13 +2,11 @@
 
 Text Rain originally implemented by Camille Utterback: http://camilleutterback.com/projects/text-rain/.
 
-This is my version of implmentation.
-
-*Threshold needs to be adjusted between the prerecorded video and the camera image.
+This is my version of implmentation. Enjoy!
 
 Display:
 
-The video image is displayed in Grayscale, and the screen is unmirrored (video image is flipped horizontally). Color of each letter object is randomized.
+The video image is displayed in Grayscale, and the screen is unmirrored (video image is flipped horizontally). Color of each letter object is randomized. *Threshold needs to be adjusted between the prerecorded video and the camera image.
 
 Animation:
 
