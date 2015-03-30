@@ -1,6 +1,7 @@
 # TextRain
 
 Text Rain originally implemented by Camille Utterback: http://camilleutterback.com/projects/text-rain/.
+
 This is my version of implmentation.
 
 *Threshold needs to be adjusted between the prerecorded video and the camera image.
