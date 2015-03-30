@@ -1,7 +1,6 @@
 /**
  Comp 394 Spring '15 Assignment #1 Text Rain
  Tianyi Liu
- Francesco Nutricato
 **/
 
 
